@@ -1,2 +1,2 @@
-# Indecision-App
-React course app
+# React Boilerplate
+Boilerplate created from React Course.
